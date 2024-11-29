@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋, I'm Krit Bualad I live in Thailand 🇹🇭
 
 <!--
 **kritbualad/kritbualad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
