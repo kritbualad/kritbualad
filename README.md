@@ -2,7 +2,7 @@
 
 This is Open Source for those wanting to open a **WMMT**/**Initial D** server.
 
-**W̶a̶n̶g̶a̶n̶ ̶M̶i̶d̶n̶i̶g̶h̶t̶ ̶M̶a̶x̶i̶m̶u̶m̶ ̶T̶u̶n̶e̶ ̶5̶D̶X̶+̶** (**No one has released it yet.**)
+**Wangan Midnight Maximum Tune 5DX+** by **shiroikitsu8**
 
 **Wangan Midnight Maximum Tune 6** by **ProjectAsakura**
 
