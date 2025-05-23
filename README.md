@@ -8,7 +8,7 @@ This is Open Source for those wanting to open a **WMMT**/**Initial D** server.
 
 **Wangan Midnight Maximum Tune 6R** by **shiroikitsu8**
 
-**W̶a̶n̶g̶a̶n̶ ̶M̶i̶d̶n̶i̶g̶h̶t̶ ̶M̶a̶x̶i̶m̶u̶m̶ ̶T̶u̶n̶e̶ ̶6̶R̶R̶** (**Release is not allowed because Asia/Oceania has not been upgrade to 6RR+/6RR PLUS yet.**)
+**Wangan Midnight Maximum Tune 6RR** There are no release plans yet. Wait to consider before releasing. But it won't be the Complete version.
 
 **Initial D Arcade Stage Zero Ver 1/2** 
 
